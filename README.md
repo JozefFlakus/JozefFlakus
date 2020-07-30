@@ -6,7 +6,7 @@ Spread the word! If you or your company had a chance to taste Marble.js and stil
 
 Thank you for your support! See you on the Mars!
 
-![Marble.js](/assets/marblejs.jpg)
+![Marble.js](https://github.com/JozefFlakus/JozefFlakus/blob/master/assets/marblejs.jpg?raw=true)
 
 <!--
 **JozefFlakus/JozefFlakus** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
