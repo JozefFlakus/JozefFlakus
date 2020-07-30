@@ -1,4 +1,4 @@
-[![Marble.js](https://github.com/JozefFlakus/JozefFlakus/blob/master/assets/marblejs.jpg?raw=true)](https://marblejs.com))
+[![Marble.js](https://github.com/JozefFlakus/JozefFlakus/blob/master/assets/marblejs.jpg?raw=true)](https://marblejs.com)
 
 Hello there! I'm a hipster ninja, λ fan, a father and core maintainer of [Marble.js](https://marblejs.com) - a functional reactive Node.js framework for building server-side applications, based on TypeScript and RxJS.
 
